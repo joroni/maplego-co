@@ -1,4 +1,5 @@
 import {NextResponse} from "next/server";
+<tr></tr>;
 
 import {createClient} from "@/utils/supabase/server";
 
